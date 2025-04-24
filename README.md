@@ -38,8 +38,8 @@ You can interact with this notebook in the following ways:
 * **Run Locally:**
     1.  Clone this repository to your local machine:
         ```bash
-        git clone [Your Repository URL Here]
-        cd [Your Repository Name]
+        git clone https://github.com/cloudtac/cloudbrewery-ml-bias-variance.git
+        cd cloudbrewery-ml-bias-variance
         ```
     2.  Ensure you have the necessary libraries installed. You can install them using pip:
         ```bash
