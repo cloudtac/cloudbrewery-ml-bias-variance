@@ -34,7 +34,7 @@ The notebook is structured as follows:
 You can interact with this notebook in the following ways:
 
 * **View Directly on GitHub:** You can read through the notebook directly on the GitHub platform.
-* **Run on Google Colab:** Click on the "Open In Colab" badge at the top of this README to execute the notebook in a free, cloud-based Jupyter environment. **(Remember to replace the placeholder link with the actual Colab link if you intend to use this option!)**
+* **Run on Google Colab:** Click on the "Open In Colab" badge at the top of this README to execute the notebook in a free, cloud-based Jupyter environment. 
 * **Run Locally:**
     1.  Clone this repository to your local machine:
         ```bash
