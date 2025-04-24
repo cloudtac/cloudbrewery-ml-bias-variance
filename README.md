@@ -61,4 +61,4 @@ This notebook is brought to you by [CloudBrewery](https://cloudbreweryai.substac
 
 ---
 
-Enjoy exploring the fascinating world of bias and variance!
+Enjoy exploring the fascinating world of Machine Learning and Artificial Intelligence!
