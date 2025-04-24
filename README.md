@@ -57,7 +57,7 @@ While this is primarily a learning resource, if you find any errors or have sugg
 
 ## About CloudBrewery
 
-This notebook is brought to you by [CloudBrewery/https://cloudbreweryai.substack.com/]. We are passionate about [Briefly mention your company's focus or your interests related to machine learning].
+This notebook is brought to you by [CloudBrewery](https://cloudbreweryai.substack.com/) . We are passionate about simplifying Machine Learning concepts.
 
 ---
 
