@@ -1,6 +1,6 @@
 # Bias-Variance Tradeoff in Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([Link to your Colab Notebook Here - Replace this!])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1CYLYABpHQy9R4nWCtAv7Jo7DxMrKLcpI?usp=drive_link])
 
 This Jupyter Notebook provides a hands-on demonstration of the fundamental concepts of **bias** and **variance** in machine learning. Through the use of synthetic data and polynomial regression, we visually explore how model complexity impacts a model's ability to generalize to unseen data.
 
